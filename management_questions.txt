@@ -12,3 +12,13 @@ People management interviews
 8) How would you ensure your team is diverse and inclusive
 9) How would you organize day-to-day activities
 10) How would you convince a team to adopt new technologies
+11) Tell me about a time you demonstrated leadership even though you weren't the formal manager
+12) Tell me about a time you were the end-to-end owner of a project
+15) Tell me about a time you used data to make a critical decision
+16) Tell me about a time you used data to measure impact
+17) How would you handle competing visions on how to deliver a project
+18) How would you choose a methodology to manage a project
+19) How would you balance flexibility and process in an agile environment
+20) How would you handle projects without defined end dates
+21) How would you prioritize projects of varying complexity
+22) How would you balance process vs. execution in an agile environment
