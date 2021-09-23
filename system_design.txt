@@ -1,0 +1,12 @@
+Example system design questions asked at Google
+
+1) How would you design Google's database for web indexing
+2) How would you design Google Docs
+3) How would you design Google Home (voice assistant)
+4) How would you design Amazon's books preview
+5) How would you design a social network
+6) How would you design a task scheduling system
+7) How would you design a ticketing platform
+8) How would you design a system that counts the number of clicks on YouTube videos
+9) How would you design a webpage that can show the status of 10M+ users including: name, photo, badge and points
+10) How would you design a function that schedules jobs on a rack of machines knowing that each job requires a certain amount of CPU & RAM, and each machine has different amounts of CPU & RAM? Multiple jobs can be scheduled on the same machine as long as it can support it
